@@ -16,9 +16,8 @@ The lab integrates **Splunk, Sysmon, and Atomic Red Team** to simulate attacks a
 
 ---
 
-## 🗂️ Lab Diagram
-*(Diagram coming soon — will be uploaded under `/Diagrams`)*  
-![Network Diagram](Diagrams/network_diagram.png)
+## 📂 Lab Diagram
+[![Network Diagram](Diagrams/DIAGRAM.png)](Diagrams/DIAGRAM.png)
 
 ---
 
