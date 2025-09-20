@@ -15,7 +15,7 @@ The lab simulates a small enterprise network with a domain controller, a worksta
 8. [Atomic Red Team](#-atomic-red-team)
 9. [Validation Checklist](#-validation-checklist)
 
-## 1️⃣ Environment Requirements
+## Environment Requirements 1️⃣
 - **Host Machine**
   - 16–32GB RAM
   - 250GB+ storage
